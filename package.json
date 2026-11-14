@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-government-fundamentalism",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Fundamentalism class: a government.",
   "repository": "git@github.com:civ-clone/base-government-fundamentalism.git",
   "keywords": [
